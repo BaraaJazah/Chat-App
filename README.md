@@ -26,3 +26,5 @@ Frontend: Blade templates with Tailwind
 
 📌 Note: Focused on delivering a fast, secure, and scalable chat experience with minimal latency in message delivery.
 
+![Image](https://github.com/user-attachments/assets/c963918e-2486-4f0e-aa3b-fe7017c0dde3)
+
