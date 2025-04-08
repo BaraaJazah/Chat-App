@@ -2,6 +2,8 @@
 # Chat-App ( 💻Website )
 A full-featured real-time chat application developed for individuals, teams, and communities. The platform supports private messaging between users as well as the creation of public and private group chats. Built with a focus on performance, security, and user experience, it provides a seamless and intuitive communication environment.
 
+▶️ Youtube : https://youtu.be/1YMXakx7C-o
+
 📅 Date: 08 / 03 / 2025
 
 ## Project Features:
