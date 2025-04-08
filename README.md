@@ -4,7 +4,7 @@ A full-featured real-time chat application developed for individuals, teams, and
 
 📅 Date: 08 / 03 / 2025
 
-##🔹 Project Features:
+## Project Features:
 
 ✅ One-to-one private messaging between users
 
