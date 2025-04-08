@@ -1,0 +1,48 @@
+tracing_subscriber - init success
+Fontconfig error: Cannot load default config file: No such file: (null)
+
+(brave:5526): IBUS-WARNING **: 08:05:25.487: brave has no capability of surrounding-text feature
+
+(brave:5526): IBUS-WARNING **: 08:34:58.285: brave has no capability of surrounding-text feature
+[5526:5526:0407/083502.061306:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.288 s for first_image_paint 0.275 s
+[5526:5526:0407/083502.161326:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.288 s for first_image_paint 0.275 s
+[5526:5526:0407/083502.998810:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.288 s for first_image_paint 0.275 s
+[5526:5526:0407/083503.928398:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.288 s for first_image_paint 0.275 s
+[5526:5526:0407/083507.167541:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.288 s for first_image_paint 0.275 s
+[5526:5526:0407/083507.284384:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.288 s for first_image_paint 0.275 s
+[5526:5526:0407/083509.661271:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.288 s for first_image_paint 0.275 s
+[5526:5526:0407/083510.085436:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.288 s for first_image_paint 0.275 s
+[5526:5526:0407/083510.185981:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.288 s for first_image_paint 0.275 s
+[5526:5526:0407/083510.302752:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.288 s for first_image_paint 0.275 s
+[5526:5526:0407/083510.311130:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.288 s for first_image_paint 0.275 s
+[5526:5526:0407/084707.423338:ERROR:CONSOLE(1)] "Uncaught (in promise) SyntaxError: Unexpected token 'H', "HTTP/1.1 4"... is not valid JSON", source: devtools://devtools/bundled/devtools_app.html?remoteBase=https://devtools.brave.com/serve_file/@2d6235ab2377d8b6e71df03a3ce911ab7c5a325/&targetType=tab&can_dock=true&panel=elements (1)
+[5526:5526:0407/085439.252817:ERROR:atom_cache.cc(230)] Add chromium/from-privileged to kAtomsToCache
+
+(brave:5526): IBUS-WARNING **: 09:28:54.325: brave has no capability of surrounding-text feature
+
+(brave:5526): IBUS-WARNING **: 14:17:26.439: brave has no capability of surrounding-text feature
+[5878:5878:0407/143451.630288:ERROR:shared_image_manager.cc(250)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5526:5526:0407/155745.954587:ERROR:atom_cache.cc(230)] Add WM_CHANGE_STATE to kAtomsToCache
+[5526:5526:0407/155945.091414:ERROR:atom_cache.cc(230)] Add chromium/x-window-drag to kAtomsToCache
+
+(brave:5526): IBUS-WARNING **: 17:57:12.037: brave has no capability of surrounding-text feature
+[5526:5526:0407/180052.795687:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
+Fontconfig error: Cannot load default config file: No such file: (null)
+[5878:5878:0407/184717.999307:ERROR:shared_image_manager.cc(250)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+[5878:5878:0407/204023.656165:ERROR:shared_image_manager.cc(250)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+Fontconfig error: Cannot load default config file: No such file: (null)
+
+(brave:5526): IBUS-WARNING **: 11:26:58.389: brave has no capability of surrounding-text feature
+[5526:5526:0408/113529.957017:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
+[5526:5526:0408/113903.850724:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
+[5878:5878:0408/120536.644405:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[5526:5526:0408/123747.991986:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
+[5526:5526:0408/135737.465523:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
+[5526:5526:0408/135833.724404:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
+[5526:5526:0408/135902.606205:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
+[5526:5526:0408/141106.887694:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+(brave:5526): IBUS-WARNING **: 15:56:13.513: brave has no capability of surrounding-text feature
